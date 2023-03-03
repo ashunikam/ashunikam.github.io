@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kiran Patel</title>
+    <link>https://kiranpatel04.github.io/Kiran_Portfolio-2/</link>
+    <description>Recent content on Kiran Patel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Apr 2021 18:19:35 +0600</lastBuildDate>
+    
+	<atom:link href="https://kiranpatel04.github.io/Kiran_Portfolio-2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tableau Project 1: COVID-19 Data Exploration And Data Visualization</title>
+      <link>https://kiranpatel04.github.io/Kiran_Portfolio-2/portfolio/covid19/</link>
+      <pubDate>Sat, 10 Apr 2021 18:19:35 +0600</pubDate>
+      
+      <guid>https://kiranpatel04.github.io/Kiran_Portfolio-2/portfolio/covid19/</guid>
+      <description>This project explored the COVID-19 cases all over the world on the basis of the population, total deaths and vaccinations. The Data is collected from Our World in Data Website for COVID-19: Dataset which is published by COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. The data collected was from Jan 28th, 2020 till June 18th, 2021    The tools used to analyze the data were MSSQL server, MS Excel and Tableau Public.</description>
+    </item>
+    
+    <item>
+      <title>Exploratory Data Analysis: Netflix TV Shows and Movies</title>
+      <link>https://kiranpatel04.github.io/Kiran_Portfolio-2/portfolio/netflixeda/</link>
+      <pubDate>Sat, 10 Apr 2021 12:13:40 +0000</pubDate>
+      
+      <guid>https://kiranpatel04.github.io/Kiran_Portfolio-2/portfolio/netflixeda/</guid>
+      <description>This EDA will explore the Netflix dataset through visualizations and graphs using python libraries, matplotlib, and seaborn. We used TV Shows and Movies listed on the Netflix dataset from Kaggle. The dataset consists of TV Shows and Movies available on Netflix as of 2019. The dataset is collected from Flixable, which third-party Netflix search engine. Following libraries were used: Numpy Pandas Matplotlib Seaborn  Exploratory Analysis and Visualization 1. Netflix Content By Type: Analyze entire Netflix dataset consisting of both movies and shows see which genres total titles (both the total number of movies and shows) are present in this dataset.</description>
+    </item>
+    
+    <item>
+      <title>Tableau Project 2: Financial Data Analysis</title>
+      <link>https://kiranpatel04.github.io/Kiran_Portfolio-2/portfolio/financial-da/</link>
+      <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kiranpatel04.github.io/Kiran_Portfolio-2/portfolio/financial-da/</guid>
+      <description>Sales reporting helps to take the guesswork out of the business decisions by giving a clear view of where the company stands at every level of the sales process. By focusing on measurable activities that have clear outcomes, we can add more value to each individual sales and the company as a whole.
+This dataset explores the sample financial data for an organization. This workbook has a table of sales and profit data sorted by market segment and country.</description>
+    </item>
+    
+    <item>
+      <title>Tableau Project 3: Foreign Direct Investment Data Analysis</title>
+      <link>https://kiranpatel04.github.io/Kiran_Portfolio-2/portfolio/fdi/</link>
+      <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kiranpatel04.github.io/Kiran_Portfolio-2/portfolio/fdi/</guid>
+      <description>In this Case Study, we will explore the FDI dataset and analyse it from the perspective of the business. We shall look at various sectors to determine which sector will prove most beneficial to collaborate with, for the company. This dataset contains sector and financial year wise data of FDI in India.
+Acknowledgements Ministry of Commerce and Industry has published Financial Year wise FDI Equity Inflows from 2000-01 to 2016-17 dataset in Open Government Data Platform India under Govt.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Formatting Demo</title>
+      <link>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/markdown-formatting-demo/</link>
+      <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/markdown-formatting-demo/</guid>
+      <description>This example Markdown file compliments of markdown-it.github.io
+ h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules    Typographic replacements Enable typographer option to see result.
+(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.
+!!!!!! ???? ,, &amp;ndash; &amp;mdash;
+&amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;
+Emphasis This is bold text
+This is bold text
+This is italic text</description>
+    </item>
+    
+    <item>
+      <title>Designer Conference at Florida 2020</title>
+      <link>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/designer-conference-at-florida-2020/</link>
+      <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
+      
+      <guid>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/designer-conference-at-florida-2020/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Benjamin Franklins thoughts about new designers</title>
+      <link>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/benjamin-franklins-thoughts-about-new-designers/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Designers thoughts about mobile UI</title>
+      <link>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/designers-thoughts-about-mobile-ui/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/designers-thoughts-about-mobile-ui/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>How to become acreative designer</title>
+      <link>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/how-to-become-acreative-designer/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/how-to-become-acreative-designer/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>New designers limitations</title>
+      <link>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/new-designers-limitations/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/new-designers-limitations/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Things you must know as a designer</title>
+      <link>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/things-you-must-know-as-a-designer/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/things-you-must-know-as-a-designer/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>World&#39;s Most Famous App Developers and Designers</title>
+      <link>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/world-most-famous-app-developers-and-designers/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/world-most-famous-app-developers-and-designers/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>You must know this before becoming a designer</title>
+      <link>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/you-must-know-this-before-becoming-a-designer/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://kiranpatel04.github.io/Kiran_Portfolio-2/blog/you-must-know-this-before-becoming-a-designer/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+  </channel>
+</rss>
